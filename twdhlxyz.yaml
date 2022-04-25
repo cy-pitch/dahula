@@ -89,6 +89,7 @@ rules:
   ## 您可以在此处插入您补充的自定义规则（请注意保持缩进）
 
   # Mining Rules
+  - SRC-IP-CIDR,192.168.10.188,💰Mining
   - DOMAIN-SUFFIX,ethermine.org,💰Mining
   - DOMAIN-SUFFIX,minerstat.com,💰Mining
   - DOMAIN-SUFFIX,flexpool.io,💰Mining
