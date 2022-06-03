@@ -9,11 +9,11 @@ secret: ''
 
 proxies:
   -
-    name: 大呼啦【台湾０１】
+    name: 大呼啦【香港０１】
     type: trojan
     server: go.dahula.xyz
-    port: 36113
-    password: mGDXN5V0yI
+    port: 35749
+    password: KOVZzUBEsu
     udp: true
 
   -
@@ -29,25 +29,25 @@ proxy-groups:
     name: 🐼大呼啦
     type: select
     proxies:
-      - 大呼啦【香港０２】
+      - 大呼啦【香港０１】
 
   -
     name: 🎬Netflix
     type: select
     proxies:
-      - 大呼啦【香港０２】
+      - 大呼啦【香港０１】
 
   -
     name: 🎞️Disney+
     type: select
     proxies:
-      - 大呼啦【香港０２】
+      - 大呼啦【香港０１】
 
   -
     name: 💰Mining
     type: select
     proxies:
-      - 大呼啦【香港０２】
+      - 大呼啦【香港０１】
 
 #   -
 #     name: "PROXY"
